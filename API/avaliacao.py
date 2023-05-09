@@ -248,10 +248,10 @@ if __name__ == '__main__':
 
     # http://localhost:5000/create_sala_has_medico
     # http://localhost:5000/update_sala_has_medico
-    # http://localhost:5000/delete_sala_has_medico/<id_sala>
-    # http://localhost:5000/get_sala_has_medico/<id_sala>
+    # http://localhost:5000/delete_sala_has_medico
+    # http://localhost:5000/get_sala_has_medico
 
     # http://localhost:5000/delete_sala
     # http://localhost:5000/update_sala
-    # http://localhost:5000/get_sala/123456
+    # http://localhost:5000/get_sala
     # http://localhost:5000/create_sala
